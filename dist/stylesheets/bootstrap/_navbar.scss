@@ -11,8 +11,8 @@ $bmg-nav-collapse-height: 20px;
   min-width: 250px;
   max-width: 250px;
 
-  @media #{screen} and (max-width: $screen-md) {
-      min-width: 100px;
+  @media #{screen} and (max-width: $screen-lg) {
+    min-width: 100px;
   }
 
   font-size: 22px;
